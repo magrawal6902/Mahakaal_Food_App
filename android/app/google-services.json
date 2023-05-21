@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527081656483",
+    "project_id": "foodapplogin-f3c73",
+    "storage_bucket": "foodapplogin-f3c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527081656483:android:c348efd363f7e22bb8af16",
+        "android_client_info": {
+          "package_name": "com.example.mahakaal_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527081656483-t6uesbpkeq5vso8ck4h7tae8iigueo80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCph3EzKzMRW0fryEoccJ52wqAuaE_UtIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527081656483-t6uesbpkeq5vso8ck4h7tae8iigueo80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
